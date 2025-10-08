@@ -1,0 +1,6 @@
+[submodule "airdrop"]
+	path = airdrop
+	url = https://github.com/amxrac/airdrop
+[submodule "airdrop2"]
+	path = airdrop2
+	url = https://github.com/amxrac/airdrop2
