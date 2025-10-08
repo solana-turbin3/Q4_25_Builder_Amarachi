@@ -4,3 +4,6 @@
 [submodule "airdrop2"]
 	path = airdrop2
 	url = https://github.com/amxrac/airdrop2
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/amxrac/solana-starter
