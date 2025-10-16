@@ -10,3 +10,6 @@
 [submodule "anchor-escrow-starter-q4-25"]
 	path = anchor-escrow-starter-q4-25
 	url = https://github.com/amxrac/anchor-escrow-starter-q4-25/
+[submodule "anchor-vault-starter-q4-25"]
+	path = anchor-vault-starter-q4-25
+	url = https://github.com/amxrac/anchor-vault-starter-q4-25
