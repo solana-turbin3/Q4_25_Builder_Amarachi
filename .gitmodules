@@ -7,3 +7,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/amxrac/solana-starter
+[submodule "anchor-escrow-starter-q4-25"]
+	path = anchor-escrow-starter-q4-25
+	url = https://github.com/amxrac/anchor-escrow-starter-q4-25/
