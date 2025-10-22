@@ -13,3 +13,6 @@
 [submodule "anchor-vault-starter-q4-25"]
 	path = anchor-vault-starter-q4-25
 	url = https://github.com/amxrac/anchor-vault-starter-q4-25
+[submodule "anchor-amm-starter-q4-25"]
+	path = anchor-amm-starter-q4-25
+	url = https://github.com/amxrac/anchor-amm-starter-q4-25
