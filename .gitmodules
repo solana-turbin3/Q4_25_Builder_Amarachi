@@ -16,3 +16,6 @@
 [submodule "anchor-amm-starter-q4-25"]
 	path = anchor-amm-starter-q4-25
 	url = https://github.com/amxrac/anchor-amm-starter-q4-25
+[submodule "anchor-mplxcore-starter-q4-25"]
+	path = anchor-mplxcore-starter-q4-25
+	url = https://github.com/amxrac/anchor-mplxcore-starter-q4-25
