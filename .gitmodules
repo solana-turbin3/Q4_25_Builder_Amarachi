@@ -19,3 +19,6 @@
 [submodule "anchor-mplxcore-starter-q4-25"]
 	path = anchor-mplxcore-starter-q4-25
 	url = https://github.com/amxrac/anchor-mplxcore-starter-q4-25
+[submodule "anchor-nft-staking-starter-q4-25"]
+	path = anchor-nft-staking-starter-q4-25
+	url = https://github.com/amxrac/anchor-nft-staking-starter-q4-25
