@@ -22,3 +22,6 @@
 [submodule "anchor-nft-staking-starter-q4-25"]
 	path = anchor-nft-staking-starter-q4-25
 	url = https://github.com/amxrac/anchor-nft-staking-starter-q4-25
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/amxrac/capstone
